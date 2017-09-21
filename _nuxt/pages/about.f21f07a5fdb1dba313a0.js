@@ -1,0 +1,2 @@
+webpackJsonp([2],{hSk2:function(e,n,t){"use strict";Object.defineProperty(n,"__esModule",{value:!0});var u=t("uLnM"),r=t("VU/8"),a=r(null,u.a,null,null,null);n.default=a.exports},uLnM:function(e,n,t){"use strict";var u=function(){var e=this,n=e.$createElement;return(e._self._c||n)("div",[e._v("This is a about page")])},r=[],a={render:u,staticRenderFns:r};n.a=a}});
+//# sourceMappingURL=about.f21f07a5fdb1dba313a0.js.map
