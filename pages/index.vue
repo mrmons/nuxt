@@ -18,6 +18,8 @@
 
 <script>
 import Logo from '~/components/Logo.vue'
+import '../node_modules/bulma/bulma.sass'
+import '../node_modules/bulma/sass/utilities/initial-variables.sass'
 
 export default {
   components: {
@@ -25,6 +27,8 @@ export default {
   }
 }
 </script>
+
+<style lang="sass" src="bulma"></style>
 
 <style>
 .container {
